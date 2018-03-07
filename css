@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  color: rgb(0,0,0);
+}
+
+#logo_heading {
+  background: rgb(0,0,0);
+}
+
+.brand_logo {
+  color:#02e300;
+  font-family: Schoolbell;
+}
+
+.brand_slogan {
+  color:#ff1200;
+  font-family: Exo;
+  font-weight: bold;
+}
+
+#slogan_helping {
+  color:#ffffff;
+}
